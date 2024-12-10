@@ -10,7 +10,7 @@ function validate() {
             close: true,
             button: false,
           });
-        window.location = "doc/index.html";
+        window.location = "quanlynhanvien/doc/index.html";
         return true;
        
     }
